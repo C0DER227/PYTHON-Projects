@@ -2,3 +2,5 @@
 from beginner to Advanced
 
 1. Word Replacement
+
+2.Basic Calculator
