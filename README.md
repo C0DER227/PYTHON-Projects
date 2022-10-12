@@ -8,3 +8,7 @@ from beginner to Advanced
 3. Email Slicer
 
 4. Binary Search Algorithm
+
+5. Quiz Game
+
+6. Password Generator
